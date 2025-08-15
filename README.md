@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @TehreemZahra 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web_development
-- 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me at tehreemkaith@gmail.com
+## 👋 Hi, I’m Tehreem Zahra  
 
-<!---
-TehreemZahra/TehreemZahra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **React Native & React Expo Developer** with 2+ years of experience building high-quality mobile applications.  
+💻 Currently expanding my skills into **Web Development** to create full-stack solutions.  
+
+### 🔹 About Me  
+- 👀 Passionate about coding and creating impactful applications  
+- 🌱 Learning and exploring modern web technologies  
+- 💞️ Open to collaborating on exciting projects  
+- 📫 Reach me at **[tehreemkaith@gmail.com](mailto:tehreemkaith@gmail.com)**  
+
+---
+
+### 🛠 Tech Stack  
+- **Mobile:** React Native, Expo  
+- **Web:** React.js, JavaScript, HTML, CSS  
+- **Other Tools:** Git, MUI, Tailwind CSS  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
